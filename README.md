@@ -12,5 +12,8 @@ Z -> 26 ,
 AA -> 27 ,
 AB -> 28 
 
+## IDE
+Intellij IDEA
+
 ## Language
 Java 12
